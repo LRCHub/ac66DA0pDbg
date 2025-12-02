@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "FIRE BIRD",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-02T07:55:21.253008Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fire Bird",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_Fire_Bird_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fire Bird",
+      "artist": "朝香果林 (CV.久保田未夢)",
+      "has_synced": true,
+      "path": "select/02_Fire_Bird_朝香果林_(CV.久保田未夢).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FIRE BIRD",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_FIRE_BIRD_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fire Bird",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/04_Fire_Bird_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fire Bird",
+      "artist": "MIYAVI",
+      "has_synced": false,
+      "path": "select/05_Fire_Bird_MIYAVI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fire Bird",
+      "artist": "朝香果林 (CV.久保田未夢)",
+      "has_synced": true,
+      "path": "select/06_Fire_Bird_朝香果林_(CV.久保田未夢).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "intimate with the fire bird",
+      "artist": "darius  rotteen",
+      "has_synced": false,
+      "path": "select/07_intimate_with_the_fire_bird_darius_rotteen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forest Fire, Bird Bone",
+      "artist": "Бисер",
+      "has_synced": true,
+      "path": "select/08_Forest_Fire,_Bird_Bone_Бисер.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "FIRE BIRD",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/09_FIRE_BIRD_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FIRE BIRD",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/10_FIRE_BIRD_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FIRE BIRD",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 中島由貴, 櫻川めぐ, 志崎樺音)",
+      "has_synced": true,
+      "path": "select/11_FIRE_BIRD_Roselia_(相羽あいな,_工藤晴香,_中島由貴,_櫻川めぐ,_志崎樺音).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FIRE BIRD",
+      "artist": "Roselia (相羽あいな, 工藤晴香, 中島由貴, 櫻川めぐ, 志崎樺音)",
+      "has_synced": true,
+      "path": "select/12_FIRE_BIRD_Roselia_(相羽あいな,_工藤晴香,_中島由貴,_櫻川めぐ,_志崎樺音).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FIRE BIRD",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_FIRE_BIRD_Roselia.txt"
+    }
+  ]
+}
